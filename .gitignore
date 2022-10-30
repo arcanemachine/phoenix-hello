@@ -1,0 +1,13 @@
+# docker volumes
+/volumes/
+
+# environment
+.envrc.local
+.env.override
+
+# swap files
+*.sw?
+
+# misc
+*.del
+/todo
